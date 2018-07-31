@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReservationEnhanced</string>
+    <string name="name">Name:</string>
+    <string name="entername">Enter your name</string>
+    <string name="mobile">Mobile no.</string>
+    <string name="entermobile">Enter Mobile Number</string>
+    <string name="size">Size of Group</string>
+    <string name="people">Enter Number of People</string>
+    <string name="td">Select Time and Date of booking</string>
+    <string name="smoke">Table in Non Smoking Area</string>
+    <string name="cfm">Confirm</string>
+    <string name="rst">Reset</string>
+</resources>
